@@ -80,6 +80,14 @@ export default function Footer() {
                   );
                 })}
               </div>
+              <div className="footer-address mt-[2.5rem]">
+                <div class="footer_office_addres_label">Office Address:</div>
+                <div class="footer_office_addres">
+                  Pace E-Commerce Ventures Ltd-AHD C-423, 4th Floor, Sumel - 11,
+                  Indian Textile Plaza, Jahangir Mill Compound, Near Namaste
+                  Circle, Shahibaug,Ahmedabad-380004{" "}
+                </div>
+              </div>
             </div>
             {/* footer left end */}
             {/* footer right goes */}
@@ -88,7 +96,7 @@ export default function Footer() {
                 <label className="newsletter--label" htmlFor="newsletter">
                   Join our newsletter
                 </label>
-                <div className="mt-[1rem]">
+                <div className="mt-[1rem] flex">
                   <input
                     className="pl-[1.5rem] w-[25rem] h-[4rem]"
                     id="newsletter"

@@ -2788,3 +2788,23 @@ option:hover {
 /* .margin-yearbox-left {
   margin-left: 2.5rem !important;
 } */
+
+.footer_office_addres_label {
+  font-weight: 400;
+  font-style: Regular;
+  font-size: 14px;
+  line-height: 150%;
+  letter-spacing: 0%;
+  color: #9d9d9d;
+}
+.footer_office_addres {
+  font-weight: 400;
+  font-style: Regular;
+  font-size: 14px;
+  line-height: 150%;
+  letter-spacing: 0%;
+  color: #555354;
+}
+.footer-address {
+  width: 70%;
+}

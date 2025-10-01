@@ -13,7 +13,7 @@ const years = [
   {
     id: 1,
     key: "ANNOUNCEMENT",
-    years: ["2022-23", "2023-24"],
+    years: ["2022-23", "2023-24", "2024-25"],
     direct: false,
   },
   {
@@ -46,7 +46,7 @@ const reportsData = [
       {
         type: "CLOSURE OF TRADING WINDOW",
         key: 11,
-        years: ["2024-25", "2023-24", "2022-23"],
+        years: ["2025-26", "2024-25", "2023-24", "2022-23"],
         data: [
           {
             year: "2022-23",
@@ -73,13 +73,19 @@ const reportsData = [
             title: "Closure of Trading Window_31.03.2025",
             url: "/main/ANNOUNCEMENT/CLOSURE OF TRADING WINDOW/2024-2025/Closure of window_31.03.2025.pdf",
           },
+
+          {
+            year: "2025-26",
+            title: "Closure of window_",
+            url: "/main/ANNOUNCEMENT/CLOSURE OF TRADING WINDOW/2025-2026/Closure of window_.pdf",
+          },
         ],
       },
       {
         type: "DISCLOSURES",
         key: 12,
         isNested: true,
-        years: ["2024-25", "2023-24", "2022-23"],
+        years: ["2025-26", "2024-25", "2023-24", "2022-23"],
         data: [
           {
             innerTab: "COMPLIANCE CERTIFICATE",
@@ -379,6 +385,12 @@ const reportsData = [
                 title: "Regulation_24A_ASCR_2024-25",
                 url: "/main/ANNOUNCEMENT/DISCLOSURES/GENERAL ANNOUNCEMENTS/2024-2025/Regulation_24A_ASCR_2024-25.pdf",
               },
+
+              {
+                year: "2025-26",
+                title: "Book Closure_",
+                url: "/main/ANNOUNCEMENT/DISCLOSURES/GENERAL ANNOUNCEMENTS/2025-2026/Book Closure_.pdf",
+              },
             ],
           },
           {
@@ -546,7 +558,7 @@ const reportsData = [
       {
         type: "VOTING RESULT",
         key: 15,
-        years: ["2024-25", "2023-24"],
+        years: ["2025-26", "2024-25", "2023-24"],
         data: [
           {
             year: "2023-24",
@@ -557,6 +569,11 @@ const reportsData = [
             year: "2024-25",
             title: "Scrutinizer's Report_Voting Results_AGM 23-24",
             url: "/main/ANNOUNCEMENT/VOTING RESULT/2024-25/Scrutinizer's Report_Voting Results_AGM 23-24.pdf",
+          },
+          {
+            year: "2025-26",
+            title: "Scrutinizer's Report_Voting Results_AGM 24-25",
+            url: "/main/ANNOUNCEMENT/VOTING RESULT/2025-2026/Scrutinizer's Report_Voting Results_AGM 24-25.pdf",
           },
         ],
       },
@@ -607,7 +624,7 @@ const reportsData = [
     sidebar: [
       {
         type: "ANNUAL REPORTS AND RETURNS",
-        years: ["2023-24", "2022-23"],
+        years: ["2024-25", "2023-24", "2022-23"],
         key: 21,
         data: [
           {
@@ -629,6 +646,11 @@ const reportsData = [
             year: "2023-24",
             title: "Form_MGT_7_2023-24",
             url: "/main/REPORTS_PRESENTATIONS AND FINANCIALS/ANNUAL REPORTS AND RETURNS/2023-2024/Form_MGT_7_2023-24.pdf",
+          },
+          {
+            year: "2024-25",
+            title: "Annual Report_FY 2024_25",
+            url: "/main/REPORTS_PRESENTATIONS AND FINANCIALS/ANNUAL REPORTS AND RETURNS/2024-2025/Annual Report_FY 2024_25.pdf",
           },
         ],
       },
@@ -725,6 +747,16 @@ const reportsData = [
             title: "Outcome of BM_27th May 2025",
             url: "/main/REPORTS_PRESENTATIONS AND FINANCIALS/BOARD MEETING/2025-2026/Outcome of BM_27th May 2025.pdf",
           },
+          {
+            year: "2025-26",
+            title: "Intimation_of BM_05th September 2025",
+            url: "/main/REPORTS_PRESENTATIONS AND FINANCIALS/BOARD MEETING/2025-2026/Intimation_of BM_05th September 2025.pdf",
+          },
+          {
+            year: "2025-26",
+            title: "Outcome of BM_05th September 2025",
+            url: "/main/REPORTS_PRESENTATIONS AND FINANCIALS/BOARD MEETING/2025-2026/Outcome of BM_05th September 2025.pdf",
+          },
         ],
       },
       {
@@ -768,7 +800,7 @@ const reportsData = [
       {
         type: "GENERAL MEETING",
         key: 24,
-        years: ["2023-24", "2022-23"],
+        years: ["2025-26", "2023-24", "2022-23"],
         data: [
           {
             year: "2022-23",
@@ -790,6 +822,17 @@ const reportsData = [
             year: "2023-24",
             title: "Outcome of AGM_23-24",
             url: "/main/REPORTS_PRESENTATIONS AND FINANCIALS/GENERAL MEETING/2023-2024/Outcome of AGM_23-24.pdf",
+          },
+
+          {
+            year: "2025-26",
+            title: "Notice_10_FY 24-25",
+            url: "/main/REPORTS_PRESENTATIONS AND FINANCIALS/GENERAL MEETING/2025-2026/Notice_10_FY 24-25.pdf",
+          },
+          {
+            year: "2025-26",
+            title: "Outcome of AGM_",
+            url: "/main/REPORTS_PRESENTATIONS AND FINANCIALS/GENERAL MEETING/2025-2026/Outcome of AGM_.pdf",
           },
         ],
       },
