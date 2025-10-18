@@ -772,7 +772,7 @@ const reportsData = [
       {
         type: "FINANCIALS",
         key: 23,
-        years: ["2024-25", "2023-24", "2022-23"],
+        years: ["2025-26", "2024-25", "2023-24", "2022-23"],
         data: [
           {
             year: "2022-23",
@@ -804,6 +804,11 @@ const reportsData = [
             year: "2024-25",
             title: "Financial Results_Yearly_March_2024-25",
             url: "/main/REPORTS_PRESENTATIONS AND FINANCIALS/FINANCIALS/2024-25/Financial Results_Yearly_March_2024-25 (1).pdf",
+          },
+          {
+            year: "2025-26",
+            title: "Financials_April_September_25-26",
+            url: "/main/REPORTS_PRESENTATIONS AND FINANCIALS/FINANCIALS/2025-26/Financials_April_September_25-26.pdf",
           },
         ],
       },
