@@ -757,6 +757,16 @@ const reportsData = [
             title: "Outcome of BM_05th September 2025",
             url: "/main/REPORTS_PRESENTATIONS AND FINANCIALS/BOARD MEETING/2025-2026/Outcome of BM_05th September 2025.pdf",
           },
+          {
+            year: "2025-26",
+            title: "Outcome of BM",
+            url: "/main/REPORTS_PRESENTATIONS AND FINANCIALS/BOARD MEETING/2025-2026/Outcome of BM.pdf",
+          },
+          {
+            year: "2025-26",
+            title: "Intimation of BM__18.10.2025",
+            url: "/main/REPORTS_PRESENTATIONS AND FINANCIALS/BOARD MEETING/2025-2026/Intimation of BM__18.10.2025.pdf",
+          },
         ],
       },
       {
