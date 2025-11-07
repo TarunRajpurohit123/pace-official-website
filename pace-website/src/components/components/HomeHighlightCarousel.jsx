@@ -68,8 +68,8 @@ export default function HomeHighlightCarousel() {
         <Image
           src={
             currentScreen <= 500
-              ? "/main/home/h3.png"
-              : "/main/zg_highlight_03.png"
+              ? "/main/paceroots-3d-mobile.png"
+              : "/main/paceroots-3d.webp"
           }
           width={currentScreen <= 500 ? 169 : 780}
           alt="image"

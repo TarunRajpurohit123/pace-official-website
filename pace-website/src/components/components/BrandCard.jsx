@@ -105,7 +105,7 @@ export default function BrandCard({
                   </p>
                   <Image src={brandLogo} width="232" height="44" alt="image" />
 
-                  <Link href="#">
+                  <Link href={href}>
                     <BlankLinkIcon
                       color={
                         brand === "Zwankee" ||

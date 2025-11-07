@@ -141,7 +141,7 @@ export default function Footer() {
           </div>
           {/* subfooter goes*/}
           <section className="subfooter flex justify-between items-center py-[2.5rem]">
-            <p>© 2024 PACE . All right reserved</p>
+            <p>© 2025 PACE . All right reserved</p>
             {/* <div className="footer-links ">
               {subLinks?.map((link, ind) => {
                 return (

@@ -47,7 +47,7 @@ body {
     ),
     linear-gradient(0deg, rgba(60, 58, 59, 0.67), rgba(60, 58, 59, 0.67));
   --ostilosCardHover: #0c4831;
-  --wishrowCardHover: #1e3557;
+  --wishrowCardHover: #1288c6;
   --ppiCardHover: #f36c3f;
   --cncCardHover: #fdaf40;
   --heroGradientColor1: rgba(204, 51, 33, 0.5);
@@ -2046,7 +2046,7 @@ option:hover {
   cursor: pointer;
 }
 .brand2__zwankeeglobal {
-  margin-left: 4rem;
+  /* margin-left: 4rem; */
   cursor: pointer;
 }
 .brand2__ppi {

@@ -36,11 +36,11 @@ export default function BrandGrid() {
         {/* row 2 goes here */}
         <div className="brand__main__row2 brand__main__row">
           <BrandCard2
-            extraCls={"brand2__homepost"}
-            href="#"
-            width={273.58}
+            extraCls={"brand2__zwankee"}
+            width={295.27}
+            href={"https://zwankee.com/"}
             height={56}
-            imgUrl={"/main/homepost2.png"}
+            imgUrl={"/main/zwankee2.png"}
           />
           <BrandCard2
             extraCls={"brand2__ostilos"}
@@ -54,7 +54,7 @@ export default function BrandGrid() {
             width={327.21}
             height={40}
             href={"https://wishrows.in/"}
-            imgUrl={"/main/wishrow2.png"}
+            imgUrl={"/wishrows_black_and_white.png"}
           />
         </div>
         {/* row 2 goes here */}
@@ -62,25 +62,18 @@ export default function BrandGrid() {
         {/* row 2 goes here */}
         <div className="brand__main__row3 brand__main__row flex">
           <BrandCard2
-            extraCls={"brand2__zwankee"}
-            width={295.27}
-            href={"https://zwankee.com/"}
-            height={56}
-            imgUrl={"/main/zwankee2.png"}
-          />
-          <BrandCard2
             extraCls={"brand2__zwankeeglobal"}
             width={260.37}
             href={"https://zwankeeglobal.com/"}
             height={53.76}
-            imgUrl={"/main/zwglobal2.png"}
+            imgUrl={"/paceroots_logo_white.png"}
           />
           <BrandCard2
             extraCls={"brand2__ppi"}
             width={123.41}
             height={56}
             href={"https://paceprintinnovation.com/"}
-            imgUrl={"/main/ppi2.png"}
+            imgUrl={"/hirone_white.png"}
           />
         </div>
         {/* row 2 end here */}

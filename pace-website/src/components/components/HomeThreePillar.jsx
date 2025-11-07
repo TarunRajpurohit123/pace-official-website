@@ -166,13 +166,13 @@ export default function HomeThreePillar() {
                         height={30}
                         alt="image"
                       />
-                      <Image
+                      {/* <Image
                         src={"/main/pillar1_02_.png"}
                         width={146}
                         height={30}
                         style={{ marginLeft: "5rem" }}
                         alt="image"
-                      />
+                      /> */}
                       <Image
                         src={"/main/pillar1_03.png"}
                         width={157}
@@ -227,8 +227,8 @@ export default function HomeThreePillar() {
                     <div className="mt-[2.5rem] flex">
                       <div className="mt-[2.5rem] flex">
                         <Image
-                          src={"/main/pillar3.png"}
-                          width={245}
+                          src={"/wishrows_black_and_white2.png"}
+                          width={185}
                           height={30}
                           alt="image"
                         />
@@ -276,16 +276,9 @@ export default function HomeThreePillar() {
 
                     <div className="mt-[2.5rem] flex">
                       <Image
-                        src={"/main/pillar2_01.png"}
+                        src={"/paceroots_logo_white.png"}
                         width={139}
                         height={30}
-                        alt="image"
-                      />
-                      <Image
-                        src={"/main/pillar2_02.png"}
-                        width={66}
-                        height={30}
-                        style={{ marginLeft: "5rem" }}
                         alt="image"
                       />
                     </div>

@@ -79,8 +79,7 @@ export default function TimelineGroup() {
       content: (
         <div>
           <p className="timemainheading">
-            Launch of ZWANKEE, WISHROWS, ZWANKEE GLOBAL and PACE PRINT
-            INNOVATIONS.
+            Launch of ZWANKEE, WISHROWS and Paceroots.
           </p>
           <p className="timemainparagraph">
             Making a strong entry into the segment of{" "}
